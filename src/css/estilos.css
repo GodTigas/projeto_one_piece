@@ -3,6 +3,7 @@ body {
     overflow: hidden;
 }
 
+
 main::after {
     content: "  ";
     position: fixed;
@@ -79,7 +80,7 @@ main .personagem .imagem {
 
     background-color: rgba(0, 0, 0, 0.3);
     
-
+/*  */
     gap: 10px;
 }
 
